@@ -1,0 +1,142 @@
+#header {
+	display: inline-block;
+	background-color: white;
+	padding-bottom: 25px;
+	padding-top: 25px;
+}
+
+#logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+	margin-right: 75px;
+	margin-left: 75px;
+	cursor: pointer;
+	font-family: 'Oswald', sans-serif;
+}
+
+#navbar {
+	background-color: #001427;
+	text-align: center;
+	color: white;
+	font-size: 24px;
+}
+
+img {
+	max-width: 960px;
+}
+
+#about-container {
+	background-image: url(../images/about-img.png);
+	height: auto; 
+}
+
+#about-content {
+	background-color: #F4E88D;
+	height: 360px;
+	margin-top: 110px;
+	margin-bottom: 75px;
+	padding: 15px;
+	color: #001427;
+}
+
+#menu-container {
+	background-color: #870000;
+	height: auto;
+}
+
+#menu-content {
+	height: 300px;
+	margin-top: 50px;
+	margin-bottom: 75px;
+	padding: 15px;
+	color: #F4E88D;
+}
+
+#location-container {
+	background-color: #001427;
+	height: auto;
+}
+
+#location-content {
+	height: 150px;
+	margin-top: 50px;
+	margin-bottom: 75px;
+	padding: 15px;
+	color: white;
+}
+
+#map-canvas {
+	max-width: 500px;
+	height: 400px;
+	display: inline-block;
+	margin-left: 230px;
+}
+
+#contact-container {
+	background-color: #708D81;
+	height: auto;
+}
+
+#contact-content {
+	height: 300px;
+	margin-top: 50px;
+	margin-bottom: 75px;
+	padding: 15px;
+	color: #001427;
+}
+
+.title {
+	font-family: 'Oswald', sans-serif;
+}
+
+.top {
+	color: white;
+	text-decoration: underline;
+	float: left;
+	margin-left: 20px;
+	cursor: pointer;
+}
+
+#top-container3 {
+	margin-top: 25px;
+}
+
+#footer-container {
+	display: inline-block;
+	text-align: center;
+	border: solid; 
+	border-color: #870000;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#footer-one {
+	display: inline-block;
+	color: #870000;
+	font-size: 16px;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+#footer-two {
+	display: inline-block;
+	color: #870000;
+	font-size: 16px;
+	text-align: center;
+	margin: 0px;
+	margin-bottom: 10px;	
+}
