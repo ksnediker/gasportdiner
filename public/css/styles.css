@@ -49,7 +49,7 @@ img {
 	background-color: #F4E88D;
 	height: auto;
 	margin-top: 110px;
-	margin-bottom: 75px;
+	margin-bottom: 55px;
 	padding: 15px;
 	padding-top: 25px;
 	color: #001427;
@@ -141,6 +141,15 @@ dd {
 	color: #001427;
 }
 
+.contact-section {
+	margin-top: 30px;
+	text-align: center;
+	background-color: white;
+	color: #708D81;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 24px;
+}
+
 .title {
 	font-family: 'Oswald', sans-serif;
 }
@@ -167,21 +176,9 @@ dd {
 }
 
 #footer-one {
-	display: inline-block;
 	color: #870000;
 	font-size: 16px;
-	text-align: center;
-	margin-bottom: 0px;
-	margin-top: 10px;
-	margin-right: 10px;
-	margin-left: 10px;
-}
-
-#footer-two {
-	display: inline-block;
-	color: #870000;
-	font-size: 16px;
-	text-align: center;
-	margin: 0px;
-	margin-bottom: 10px;	
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 0;
 }
