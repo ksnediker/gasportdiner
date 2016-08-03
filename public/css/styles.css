@@ -64,7 +64,8 @@ img {
 
 .meal {
 	text-decoration: underline;
-	display: inline-block;
+	text-align: center;
+	margin-right: 75px;
 }
 
 dt {
@@ -85,6 +86,13 @@ dd {
 }
 
 .menu-section {
+	text-align: center;
+	background-color: white;
+	color: #870000;
+	font-family: 'Permanent Marker', cursive;
+}
+
+#kids {
 	text-align: center;
 	background-color: white;
 	color: #870000;
@@ -129,12 +137,12 @@ dd {
 	display: inline-block;
 }
 
-#contact-container {
+#deals-container {
 	background-color: #708D81;
 	height: auto;
 }
 
-#contact-content {
+#deals-content {
 	height: auto;
 	margin-top: 30px;
 	padding: 15px;
@@ -177,4 +185,13 @@ dd {
 	padding-bottom: 15px;
 	margin: 0;
 	float: right;
+}
+
+a {
+	color: #53D8FB;
+}
+
+#sm {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 24px;
 }
