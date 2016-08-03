@@ -31,9 +31,6 @@ li {
 	font-size: 24px;
 }
 
-img {
-	max-width: 960px;
-}
 
 #about-container {
 	background-image: url(../images/about-img.jpg);
@@ -194,4 +191,8 @@ a {
 #sm {
 	font-family: 'Permanent Marker', cursive;
 	font-size: 24px;
+}
+
+img {
+	max-width: 960px;
 }
