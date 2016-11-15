@@ -196,3 +196,8 @@ a {
 img {
 	max-width: 100%;
 }
+
+#closed {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 48px;
+}
